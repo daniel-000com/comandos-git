@@ -1,0 +1,2 @@
+-Git clone: sirve para clonar el repositorio remoto que se 
+encuentra en lanuve y asi tenerlo tambien de manera local 
