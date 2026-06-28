@@ -1,9 +1,15 @@
--Git clone: sirve para clonar el repositorio remoto que se 
+-Git clone: 
+  sirve para clonar el repositorio remoto que se 
   encuentra en lanuve y asi tenerlo tambien de manera local 
--git push: sirve para subir los cambios a nuestro repositorio
+-git push: 
+  sirve para subir los cambios a nuestro repositorio
   remoto
--sirve para verificar el estado actual de nuestro repositorio 
+-git status:
+  sirve para verificar el estado actual de nuestro repositorio 
   si es que hay algun cambio 
--git add: sirve para guardar los cambios que querramos a 
-nuestro repositorio local (tambien podemos elegir si queremos 
-guardar todos los cambios o solo algunos "archivos" )
+-git add: 
+  mueve los archivos al área de preparación (staging area) 
+  antes del commit
+-git commit:
+  sirve para guardar los cambios a 
+  nuestro repositorio local y agregarle un nombre(descripcion de los cambios que hisimos en el repositorio)
